@@ -21,7 +21,7 @@ The **Password Generator** is a simple yet highly effective tool designed to cre
 ### How to Use:
 1. Clone the repository:
    ```bash
-   https://github.com/Jasim-ansari-23/Password-Generator.git
+   https://github.com/mo-jasim/Password-Generator.git
    ```
 2. Open the `index.html` file in your preferred browser.
 3. Choose your preferred password length and character options.
