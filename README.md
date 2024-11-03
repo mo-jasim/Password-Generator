@@ -1,6 +1,6 @@
 # Password-Generator
 
-Check it out at: [https://password-generator.jasim.io/]
+Check it out at: [https://password-generator.buildwithjasim.tech/]
 
 ### About
 The **Password Generator** is a simple yet highly effective tool designed to create secure and customizable passwords for a wide range of applications. With security being more important than ever, this tool enables users to generate strong, random passwords that include a combination of uppercase letters, lowercase letters, numbers, and special characters. It ensures that the generated passwords are unpredictable and highly secure, making them ideal for protecting online accounts, systems, or confidential information.
